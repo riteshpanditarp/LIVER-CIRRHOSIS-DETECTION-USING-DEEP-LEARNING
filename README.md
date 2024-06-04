@@ -42,8 +42,6 @@ python app.py
 All the datasets were used from kaggle .
 - [Liver Disease Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
 
-## Links for Python Notebooks used for model creation
-
 - [Diabetes Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Diabetes_Prediction.ipynb)
 - [Breast Cancer Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Cancer_Prediction.ipynb)
 - [Heart Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Heart_Disease_Prediction.ipynb)
