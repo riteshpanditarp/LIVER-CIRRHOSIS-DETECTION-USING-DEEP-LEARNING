@@ -39,7 +39,9 @@ python app.py
 
 ## Dataset Links
 
-All the datasets were used from kaggle .
-- [Liver Disease Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
+The Dataset was collected from various MRI and CT scan centres and related hospitals .
+Its a self processed dataset and took lots of time for cleaning .
+Do support to me through PAYPAL - riteshpanditarp@gmail.com
+- [Liver Disease Dataset](https://www.kaggle.com/datasets/riteshpandita/liver-cirrhosis-data-for-deep-learning-analysis)
 
-- [Liver Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
+- [Liver Disease Notebook](https://github.com/riteshpanditarp/LIVER-CIRRHOSIS-DETECTION-USING-DEEP-LEARNING/blob/main/Liver_Disease_Prediction.ipynb)
